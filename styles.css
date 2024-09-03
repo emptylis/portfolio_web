@@ -243,8 +243,8 @@ section{
     text-align: center;
 }
 .footer-item h3 {
-    margin-bottom: 10px;
-    font-size: 1.2em;
+    margin-bottom: -15px;
+    font-size: 1.3em;
 }
 .footer-item p, .footer-item a {
     margin: 5px 0;
