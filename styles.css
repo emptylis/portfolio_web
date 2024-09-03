@@ -220,8 +220,8 @@ section{
 }
 
 .footer {
-    background-color: #333;
-    color: white;
+    background-color: white;
+    color: black;
     padding: 20px 0;
     text-align: center;
     margin-top: 50px;
@@ -249,12 +249,12 @@ section{
     font-size: 1em;
 }
 .footer-item a {
-    color: #bbb;
+    color: black;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 .footer-item a:hover {
-    color: #fff;
+    color: blue;
 }
 .footer-item p, .footer-item a {
     line-height: 1.6;
